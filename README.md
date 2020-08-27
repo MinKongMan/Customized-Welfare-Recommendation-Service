@@ -1,7 +1,5 @@
 # Welfare-Chatbot-for-All-of-Us
  
- # It is my capstone design product
- 
  # 프로젝트 주제
  AI 챗봇만들기 (크롤링/스크래핑, NLP, Dialogflow 등 활용)
  
