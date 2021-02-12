@@ -1,4 +1,6 @@
 # Welfare-Chatbot-for-All-of-Us
+ ![슬라이드1](https://user-images.githubusercontent.com/61404972/107726643-dd140f00-6d2c-11eb-91a8-ad43fd07ae5d.PNG)
+ 
  
  # 프로젝트 주제
  AI 챗봇만들기 (크롤링/스크래핑, NLP, Dialogflow 등 활용)
