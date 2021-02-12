@@ -1,4 +1,4 @@
-# Customized Welfare Recommendation Service (사용자 맞춤 복지 알리미 '복덩이')
+# 사용자 맞춤 복지서비스 추천 앱 '복덩이'
  ![슬라이드1](https://user-images.githubusercontent.com/61404972/107726643-dd140f00-6d2c-11eb-91a8-ad43fd07ae5d.PNG)
  
  
