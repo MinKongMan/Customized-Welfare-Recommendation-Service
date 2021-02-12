@@ -7,7 +7,7 @@
  
  
  # 활용 기술
- 크롤링, NLP, Dialogflow, 사용자 추천 시스템 등 
+ 크롤링, NLP, Dialogflow, 사용자 추천 알고리즘 등 
  
  
  # 프로젝트 진행과정
@@ -40,5 +40,4 @@
 
 
 # 기대효과
-[우리 모두의 복지 챗봇] 모바일 애플리케이션은 아래와 같은 효과를 기대한다. 
 ![슬라이드26](https://user-images.githubusercontent.com/61404972/107734980-fd01fd80-6d41-11eb-8f70-6302e9ab4c02.PNG)
