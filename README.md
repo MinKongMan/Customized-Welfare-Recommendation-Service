@@ -1,4 +1,4 @@
-# Welfare-Chatbot-for-All-of-Us
+# Welfare-Chatbot-for-All-of-Us (사용자 맞춤 복지 알리미 '복덩이')
  ![슬라이드1](https://user-images.githubusercontent.com/61404972/107726643-dd140f00-6d2c-11eb-91a8-ad43fd07ae5d.PNG)
  
  
@@ -30,15 +30,13 @@
  ![슬라이드22](https://user-images.githubusercontent.com/61404972/107734908-d774f400-6d41-11eb-856b-ce3e19d86594.PNG)
  
  
- ## 4. 앱에 다양한 기능 구현
+ ## 4. 기타 기능
  ![슬라이드23](https://user-images.githubusercontent.com/61404972/107734919-de9c0200-6d41-11eb-91e4-d80b72318754.PNG)
  
  
 
-# 작품 흐름도 및 작품 구성도
-![image](https://user-images.githubusercontent.com/61404972/91407245-7f266480-e87d-11ea-86bf-8b201f76af63.png)
-
-![image](https://user-images.githubusercontent.com/61404972/91407313-83eb1880-e87d-11ea-824c-6866f6ac812f.png)
+# 작품 흐름도
+![슬라이드25](https://user-images.githubusercontent.com/61404972/107735280-ad700180-6d42-11eb-9128-9ae763f35eaf.PNG)
 
 
 # 기대효과
